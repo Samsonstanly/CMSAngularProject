@@ -1,0 +1,6 @@
+@CMSAngularProject_HostAddress = http://localhost:5263
+
+GET {{CMSAngularProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
